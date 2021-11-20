@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateuszD-i
 - 👀 I’m interested in Python, images processing and data science.
-- 🌱 I’m currently learning how to be better at things that interest me.
+- 🌱 I’m currently learning how to be better at thoese things above.
 
 <!---
 MateuszD-i/MateuszD-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
